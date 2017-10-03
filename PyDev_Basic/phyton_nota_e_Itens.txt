@@ -1,0 +1,5 @@
+010|NOTAFISCAL:000001
+020|item:1
+020|item:2
+020|item:3
+020|item:4
